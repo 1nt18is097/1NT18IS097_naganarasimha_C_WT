@@ -1,0 +1,16 @@
+#outer-box
+{
+  background-color: blueviolet;
+  width: 100px;
+}
+
+#middle-box
+{
+  background-color: chocolate;
+  width: 150px;
+}
+
+#inner-box
+{
+  background-color: cyan;
+}

@@ -1,0 +1,23 @@
+#outer-box
+{
+    height: 440px;
+    width: 440px;
+    padding: 200px;
+    background: red;
+}
+
+#middle-box
+{
+    height: 220px;
+    width: 220px;
+    padding: 100px;
+    background: yellow;
+}
+
+#inner-box
+{
+    height: 110px;
+    width: 110px;
+    padding: 50px;
+    background: green;
+}
